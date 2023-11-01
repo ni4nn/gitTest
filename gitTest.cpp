@@ -5,7 +5,9 @@
 
 int main()
 {
-    std::cout << "Hello Githuaaab!\n";
+    std::cout << "Hello Github!\n";
+    std::cout << "Hello New branch\n";
+    std::cout << "プルリクエストの送信\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
